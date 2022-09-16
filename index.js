@@ -1,4 +1,4 @@
-console.log("Roses are red,")
-console.log("Violets are blue,")
+console.log("Roses are 🔴,");
+console.log("Violets are 🔵,");
 console.log("Sugar is sweet,");
 console.log("And so are you.");
